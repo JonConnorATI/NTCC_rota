@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NTCC 13‑Week Rota</title>
+<link rel="stylesheet" href="resources/style.css">
+</head>
+
+<body>
+
+<div class="rotate-warning">
+    Please rotate your device to landscape to view the rota.
+</div>
+
+<div class="container">
+
+    <h2>NTCC Rota Viewer</h2>
+
+    <label for="weekSelect">Select Week:</label>
+    <select id="weekSelect" onchange="updateRota()"></select>
+
+    <h3 id="dateRange"></h3>
+
+    <div class="table-wrapper">
+        <table id="rotaTable">
+            <thead>
+                <tr>
+                    <th>Job No</th>
+                    <th>Name</th>
+                    <th>Mon</th><th>Tue</th><th>Wed</th>
+                    <th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script src="resources/script.js"></script>
+
+</body>
+</html>
