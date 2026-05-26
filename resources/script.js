@@ -27,7 +27,7 @@ const names = [
     "Nick V",
     "Pat F",
     "Eddie McK",
-    "Harrison J",
+    "Nigel R",
     "Jack D",
     "Jon C",
     "Nico B",
