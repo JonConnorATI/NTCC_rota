@@ -13,8 +13,8 @@ const shiftPatterns = [
     { job: 63, shifts: ["Early","Early","Early","Rest","Rest","1900","1900"] },
     { job: 64, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
     { job: 65, shifts: ["Rest","Rest","A/R","A/R","A/R","Early","Early"] },
-    { job: 66, shifts: ["Early Breaks","Early Breaks","Early Breaks","Early Breaks","Early Breaks","Rest","Rest"] },
-    { job: 67, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] }
+    { job: 66, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
+    { job: 67, shifts: ["Early Breaks","Early Breaks","Early Breaks","Early Breaks","Early Breaks","Rest","Rest"] }       
 ];
 
 // ------------------------------
