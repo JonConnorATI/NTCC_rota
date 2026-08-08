@@ -4,17 +4,17 @@
 const shiftPatterns = [
     { job: 55, shifts: ["Nights","Nights","Nights","Nights","Nights","Rest","Rest"] },
     { job: 56, shifts: ["Rest","Late","Late","Late","Late","Late","Late"] },
-    { job: 57, shifts: ["Late","Rest","Rest","Early","Early","Early","Early"] },
+    { job: 57, shifts: ["Late","Rest","Rest","Early","Early","1900","1900"] },
     { job: 58, shifts: ["1900","1900","1900","1900","1900","Rest","Rest"] },
     { job: 59, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
-    { job: 60, shifts: ["Early","Early","Early","Late","Late","Rest","Rest"] },
-    { job: 61, shifts: ["Late","Late","Late","Rest","Rest","Nights","Nights"] },
-    { job: 62, shifts: ["Rest","Rest","Rest","Early","Early","Middle","Middle"] },
-    { job: 63, shifts: ["Early","Early","Early","Rest","Rest","1900","1900"] },
+    { job: 60, shifts: ["Late","Late","Late","Late","Late","Rest","Rest"] },
+    { job: 61, shifts: ["Early","Early","Early","Rest","Rest","Nights","Nights"] },
+    { job: 62, shifts: ["Rest","Rest","Rest","A/R","A/R","Middle","Middle"] },
+    { job: 63, shifts: ["Early","Early","Early","Early","Early","Rest","Rest"] },
     { job: 64, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
     { job: 65, shifts: ["Rest","Rest","A/R","A/R","A/R","Early","Early"] },
-    { job: 66, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
-    { job: 67, shifts: ["Early Breaks","Early Breaks","Early Breaks","Early Breaks","Early Breaks","Rest","Rest"] }       
+    { job: 67, shifts: ["A/R","A/R","Rest","Rest","A/R","AR/E","AR/E"] },
+    { job: 66, shifts: ["Early Breaks","Early Breaks","Early Breaks","Early Breaks","Early Breaks","Rest","Rest"] }       
 ];
 
 // ------------------------------
