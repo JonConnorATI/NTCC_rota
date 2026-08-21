@@ -3,7 +3,7 @@
 // ------------------------------
 const shiftPatterns = [
     { job: 55, shifts: ["Nights","Nights","Nights","Nights","Nights","Rest","Rest"] },
-    { job: 56, shifts: ["Rest","Late - M","Late - D","Late - M","Late - D","Late","Late"] },
+    { job: 56, shifts: ["Rest","Late - D","Late - M","Late - D","Late - M","Late","Late"] },
     { job: 57, shifts: ["Late - M","Rest","Rest","Early","Early","1900","1900"] },
     { job: 58, shifts: ["1900","1900","1900","1900","1900","Rest","Rest"] },
     { job: 59, shifts: ["A/R","A/R","A/R","A/R","A/R","A/R","A/R"] },
